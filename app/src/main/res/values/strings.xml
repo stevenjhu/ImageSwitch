@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="rock_description">rock</string>
+    <string name="switch_image_string">Switch Image</string>
+</resources>
+
+
